@@ -7,7 +7,7 @@ function App() {
       <header className="header">
         <nav className="nav">
           <div className="nav-brand">
-            <h1>Misión Jesuítica de Tavarangüé</h1>
+            <h1>Misión Jesuítica de Tavarangue</h1>
           </div>
           <ul className="nav-menu">
             <li><a href="#historia">Historia</a></li>
@@ -21,7 +21,7 @@ function App() {
       {/* Hero Section */}
       <section className="hero">
         <div className="hero-content">
-          <h1 className="hero-title">Misión Jesuítica de Tavarangüé</h1>
+          <h1 className="hero-title">Misión Jesuítica de Tavarangue</h1>
           <p className="hero-subtitle">Un legado histórico recreado por los estudiantes de Eurosur</p>
           <div className="hero-buttons">
             <a href="#historia" className="btn btn-primary">Conocer la Historia</a>
@@ -41,7 +41,7 @@ function App() {
           <div className="historia-content">
             <div className="historia-text">
               <p>
-                La Misión Jesuítica de Tavarangüé, ubicada en Paraguay, fue una de las reducciones
+                La Misión Jesuítica de Tavarangue, ubicada en Paraguay, fue una de las reducciones
                 más importantes establecidas por los jesuitas en el siglo XVIII. Fundada en 1685,
                 esta misión representó un modelo de organización social y cultural único en América.
               </p>
@@ -51,7 +51,7 @@ function App() {
                 que aún hoy nos asombran por su sofisticación.
               </p>
               <p>
-                La arquitectura de Tavarangüé se caracteriza por su mezcla de estilos europeos
+                La arquitectura de Tavarangue se caracteriza por su mezcla de estilos europeos
                 y elementos indígenas, creando un patrimonio arquitectónico único que forma parte
                 del Patrimonio Mundial de la UNESCO.
               </p>
@@ -72,7 +72,7 @@ function App() {
               <h3>Recreando la Historia en Minecraft Education</h3>
               <p>
                 Los estudiantes de la institución Eurosur han emprendido un proyecto ambicioso:
-                recrear la Misión Jesuítica de Tavarangüé en Minecraft Education Edition.
+                recrear la Misión Jesuítica de Tavarangue en Minecraft Education Edition.
               </p>
               <p>
                 Este proyecto educativo combina historia, arquitectura y tecnología, permitiendo
@@ -161,7 +161,7 @@ function App() {
             </div>
             <div className="footer-section">
               <h3>Misión Jesuítica</h3>
-              <p>Tavarangüé, Paraguay</p>
+              <p>Tavarangue, Paraguay</p>
               <p>Patrimonio Mundial UNESCO</p>
             </div>
             <div className="footer-section">
