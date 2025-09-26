@@ -511,7 +511,6 @@ body {
 @media (max-width: 768px) {
   .nav {
     flex-direction: column;
-    gap: 1rem;
     padding: 1rem;
   }
   
@@ -553,6 +552,7 @@ body {
   
   .hero-buttons {
     justify-content: center;
+    margin-bottom: 1rem;
   }
   
   .btn {
